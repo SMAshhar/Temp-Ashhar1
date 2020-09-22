@@ -1,0 +1,24 @@
+[33mcommit 55da727709fb81107ad1d2040a5bb1338eb35f35[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Syed Muhammad Ashhar <syed.muhammad.ashhar@gmail.com>
+Date:   Wed Sep 16 11:12:16 2020 +0500
+
+    Starting HTML/CSS training
+
+[1mdiff --git a/css/practice.html b/css/practice.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0323b10[m
+[1m--- /dev/null[m
+[1m+++ b/css/practice.html[m
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m<html>[m
+[32m+[m[32m  <head>[m
+[32m+[m[32m    <title>Practice</title>[m
+[32m+[m[32m  </head>[m
+[32m+[m[32m  <body>[m
+[32m+[m[32m    <p>Syed Muhammad Ashhar. </p>[m[41m [m
+[32m+[m[32m    <p>That's my name. Things doesnt look like so</p>[m
+[32m+[m[32m    <p>These directions are important. Read them carefully.[m
+[32m+[m[32m    </p>[m
+[32m+[m[32m  </body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
